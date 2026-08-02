@@ -59,11 +59,6 @@ SERPER_API_KEY=your_serper_api_key
 streamlit run 1_qna_groq.py
 ```
 
-## 📸 Demo
-
-<img width="900" alt="Demo" src="https://via.placeholder.com/900x450?text=Add+Project+Screenshot+Here">
-
-> Replace the image above with a screenshot of your application.
 
 ## 📖 How It Works
 
